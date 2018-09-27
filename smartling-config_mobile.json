@@ -1,0 +1,41 @@
+
+{
+    "locales": [
+         {
+             "smartling" : "de-DE",
+             "application" : "de-DE"
+         },
+        {
+             "smartling" : "pt-BR",
+             "application" : "pt-BR"
+         },
+         {
+             "smartling" : "ja-JP",
+             "application" : "ja-JP"
+         },
+         {
+             "smartling" : "fr-CA",
+             "application" : "fr-CA"
+         },
+        {
+             "smartling" : "es-US",
+             "application" : "es-US"
+         },
+         {
+             "smartling" : "ru",
+             "application" : "ru"
+         }
+     ],
+     "resourceSets": [
+         {
+            "type"      : "ios",
+            "pathRegex" : ".*Client\\/en\\/.*\\.strings",
+            "translationPathExpression" : "/Client/${locale}/${originalFile.baseName}_${locale}.${originalFile.extension}",
+            "translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}",
+                         "smartlingDirectives"       : [
+                 "smartling.placeholder_format = ios"
+            ]
+         }
+
+     ]
+}
