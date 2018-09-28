@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- smartling.instruction_comments_enabled = true -->
-<resources>
-    <string name="sign_in_create_login">Dyson-Konto erstellen</string>
-    <string name="cancel_button">Abbrechen</string>
-	
-</resources>
