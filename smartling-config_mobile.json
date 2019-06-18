@@ -9,7 +9,7 @@
      "resourceSets": [
          {
             "type"      : "json",
-            "pathRegex" : ".*files\\/.*\\.json",
+            "pathRegex" : ".*files\\/class.*\\.json",
             "translationPathExpression" : "/files/${locale}/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "translationCommitMessage"  : "Translate ${originalFile.fullName} to ${locale}",
                          "smartlingDirectives"       : [
