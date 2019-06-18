@@ -12,10 +12,10 @@
 
 {
   "id" : "empty.past.no-classes-yet",
-  "defaultMessage" : "You haven't taken any classes yet"
+  "defaultMessage" : "Ainda não tomou nenhuma aula."
 },
 
 {
   "id" : "empty.past.classes",
-  "defaultMessage" : "Ready to get sweaty today?"
+  "defaultMessage" : ""
 }]
