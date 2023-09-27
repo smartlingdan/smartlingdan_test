@@ -36,4 +36,4 @@
 "TransferToBankButton" = "Transfer to bank";
 "SendMoneyButton" = "Send Money";
 "PaidInvoices.one" = "%d Paid Invoice";
-"PaidInvoices.other" = "%d Paid Invoices";
+"PaidInvoices.other" = "%d Paid Invoices!!!";
