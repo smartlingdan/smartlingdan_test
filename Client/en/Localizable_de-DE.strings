@@ -36,4 +36,4 @@
 "TransferToBankButton" = "Überweisung an die Bank";
 "SendMoneyButton" = "Geld schicken";
 "PaidInvoices.one" = "%1$d Rechnung bezahlt";
-"PaidInvoices.other" = "%1$d Bezahlte Rechnungen";
+"PaidInvoices.other" = "%1$d Rechnungen bezahlt!!!";
