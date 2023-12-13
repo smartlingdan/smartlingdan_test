@@ -1,0 +1,21 @@
+[
+{
+  "smartling" : {
+    "translate_paths" : [
+    {
+      "path" : "/defaultMessage",
+      "key" : "/id"
+    }],
+    "variants_enabled" : true
+  }
+},
+
+{
+  "id" : "empty.past.no-classes-yet",
+  "defaultMessage" : "Sie haben noch keine Kurse besucht"
+},
+
+{
+  "id" : "empty.past.classes",
+  "defaultMessage" : "Bereit, heute ins Schwitzen zu kommen?"
+}]
