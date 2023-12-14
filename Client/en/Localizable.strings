@@ -38,3 +38,4 @@
 "PaidInvoices.one" = "%d Paid Invoice";
 "PaidInvoices.other" = "%d Paid Invoices!!!";
 "PaidInvoices.other.balance" = "%d Paid Invoices against the balance";
+"InvoiceTitleNumberCanceled" = "Invoice #%.f has been canceled";
