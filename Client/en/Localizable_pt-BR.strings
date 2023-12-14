@@ -38,4 +38,4 @@
 "PaidInvoices.one" = "%1$d Fatura Paga";
 "PaidInvoices.other" = "%1$d Faturas Pagas!!!";
 "PaidInvoices.other.balance" = "%1$d Faturas pagas em relação ao saldo";
-"InvoiceTitleNumberCanceled" = "A fatura nº%1$.f foi cancelada";
+"InvoiceTitleNumberCanceled" = "A fatura nº%1$.f foi cancelada.";
