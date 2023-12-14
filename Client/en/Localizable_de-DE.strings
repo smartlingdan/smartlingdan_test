@@ -38,4 +38,4 @@
 "PaidInvoices.one" = "%1$d Rechnung bezahlt";
 "PaidInvoices.other" = "%1$d Rechnungen bezahlt!!!";
 "PaidInvoices.other.balance" = "%1$d Bezahlte Rechnungen gegen den Restbetrag";
-"InvoiceTitleNumberCanceled" = "Rechnung Nr. %1$.f wurde storniert";
+"InvoiceTitleNumberCanceled" = "Rechnung Nr. %1$.f wurde storniert.";
