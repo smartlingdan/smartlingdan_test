@@ -14,9 +14,9 @@
 "MoneyReceived" = "Geld erhalten";
 "ViewAll" =  "Alle ansehen";
 "UnpaidInvoices" = "Unbezahlte Rechnungen";
-"InvoiceTitleNumber" = "Rechnung Nr.%1$.f";
+"InvoiceTitleNumber" = "Rechnung Nr. %1$.f";
 "InvoiceDate" = "Rechnungsdatum";
-"DueDate" = "Geburtstermin";
+"DueDate" = "Fälligkeitsdatum";
 "ItemOrService" = "Artikel oder Dienstleistung";
 "Subtotal" = "Zwischensumme";
 "Discount" = "Rabatt";
