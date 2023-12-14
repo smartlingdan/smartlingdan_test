@@ -10,14 +10,14 @@
 
 "Available" = "Disponível >";
 "RecentActivityTitle" = "ATIVIDADE RECENTE";
-"MoneySent" = "dinheiro enviado";
+"MoneySent" = "Dinheiro enviado";
 "MoneyReceived" = "Dinheiro recebido";
 "ViewAll" =  "Ver tudo";
 "UnpaidInvoices" = "Faturas não pagas";
-"InvoiceTitleNumber" = "Fatura #%1$.f";
+"InvoiceTitleNumber" = "Fatura nº%1$.f";
 "InvoiceDate" = "Data da fatura";
 "DueDate" = "Data de vencimento";
-"ItemOrService" = "Item ou Serviço";
+"ItemOrService" = "Item ou serviço";
 "Subtotal" = "Subtotal";
 "Discount" = "Desconto";
 "Shipping" = "Envio";
@@ -33,8 +33,8 @@
 "InvoicingMenu" = "Faturamento";
 "CustomersMenu" = "Clientes";
 "MoneyTitle" = "Dinheiro";
-"TransferToBankButton" = "Transferir para o banco";
-"SendMoneyButton" = "enviar dinheiro";
-"PaidInvoices.one" = "%1$d Fatura paga";
+"TransferToBankButton" = "Transferência para banco";
+"SendMoneyButton" = "Enviar dinheiro";
+"PaidInvoices.one" = "%1$d Fatura Paga";
 "PaidInvoices.other" = "%1$d Faturas Pagas!!!";
 "PaidInvoices.other.balance" = "%1$d Faturas pagas em relação ao saldo";
