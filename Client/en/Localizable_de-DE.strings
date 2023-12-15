@@ -1,8 +1,7 @@
 /*
   Localizable.strings
-  PayPal
 
-  Created by Dan Juliano.
+  Created by Daniel Juliano.
 
 */
 
@@ -39,3 +38,4 @@
 "PaidInvoices.other" = "%1$d Rechnungen bezahlt!!!";
 "PaidInvoices.other.balance" = "%1$d Bezahlte Rechnungen gegen den Restbetrag";
 "InvoiceTitleNumberCanceled" = "Rechnung Nr. %1$.f wurde storniert.";
+"InvoiceTitleNumberPaid" = "Rechnung Nr. %1$.f wurde vollständig bezahlt";
