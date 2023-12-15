@@ -1,8 +1,7 @@
 /*
   Localizable.strings
-  PayPal
 
-  Created by Dan Juliano.
+  Created by Daniel Juliano.
 
 */
 
@@ -39,3 +38,4 @@
 "PaidInvoices.other" = "%1$d Faturas Pagas!!!";
 "PaidInvoices.other.balance" = "%1$d Faturas pagas em relação ao saldo";
 "InvoiceTitleNumberCanceled" = "A fatura nº%1$.f foi cancelada.";
+"InvoiceTitleNumberPaid" = "A fatura nº%1$.f foi paga integralmente";
