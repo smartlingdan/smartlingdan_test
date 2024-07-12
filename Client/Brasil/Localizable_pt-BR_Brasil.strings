@@ -1,0 +1,41 @@
+/*
+  Localizable.strings
+
+  Created by Daniel Juliano.
+
+*/
+
+
+
+"Available" = "Disponível >";
+"RecentActivityTitle" = "ATIVIDADE RECENTE";
+"MoneySent" = "dinheiro enviado";
+"MoneyReceived" = "Dinheiro recebido";
+"ViewAll" =  "Ver tudo";
+"UnpaidInvoices" = "Faturas não pagas";
+"InvoiceTitleNumber" = "Fatura #%1$.f";
+"InvoiceDate" = "Dados da fatura";
+"DueDate" = "Dados de vencimento";
+"ItemOrService" = "Item ou Serviço";
+"Subtotal" = "Subtotal";
+"Discount" = "Desconto";
+"Shipping" = "Envio";
+"Save" = "Salvar";
+"Send" = "Enviar";
+"ActivityTitle" = "Atividade";
+"All" = "Todos";
+"Recieved" = "Recebido";
+"Sent" = "Enviado";
+"Customers" = "Clientes";
+"HomeMenu" = "Lar";
+"MoneyMenu" = "Dinheiro";
+"InvoicingMenu" = "Faturamento";
+"CustomersMenu" = "Clientes";
+"MoneyTitle" = "Dinheiro";
+"TransferToBankButton" = "Transferir para o banco";
+"SendMoneyButton" = "enviar dinheiro";
+"PaidInvoices.one" = "%1$d Fatura paga";
+"PaidInvoices.other" = "%1$d{Faturas Pagas!!!";
+"PaidInvoices.other.balance" = "%1$d Faturas pagas em relação ao saldo";
+"InvoiceTitleNumberCanceled" = "A fatura #%1$.f foi cancelada";
+"InvoiceTitleNumberPaid" = "A fatura #%1$.f foi paga integralmente";
