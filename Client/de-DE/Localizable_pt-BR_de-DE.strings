@@ -1,0 +1,41 @@
+/*
+  Localizable.strings
+
+  Created by Daniel Juliano.
+
+*/
+
+
+
+"Available" = "Verfügbar >";
+"RecentActivityTitle" = "Aktuelle Aktivität";
+"MoneySent" = "Gesendeter Dollar";
+"MoneyReceived" = "Erhaltenes Geld";
+"ViewAll" =  "Alles anzeigen";
+"UnpaidInvoices" = "Keine Zahlungen";
+"InvoiceTitleNumber" = "Faktura #%1$.f";
+"InvoiceDate" = "Umsatzdaten";
+"DueDate" = "Datum der Veranstaltung";
+"ItemOrService" = "Artikel oder Service";
+"Subtotal" = "Zwischensumme";
+"Discount" = "Rabatt";
+"Shipping" = "Envio";
+"Save" = "Speichern";
+"Send" = "Senden";
+"ActivityTitle" = "Aktivität";
+"All" = "Alle";
+"Recieved" = "Empfangen";
+"Sent" = "Senden";
+"Customers" = "Kunden";
+"HomeMenu" = "Lar";
+"MoneyMenu" = "Geld";
+"InvoicingMenu" = "Verfallsdatum";
+"CustomersMenu" = "Kunden";
+"MoneyTitle" = "Geld";
+"TransferToBankButton" = "Überweisung auf die Bank";
+"SendMoneyButton" = "Geld schicken";
+"PaidInvoices.one" = "%1$d Fatur-Zahlung";
+"PaidInvoices.other" = "%1$d Viel Glück!!!";
+"PaidInvoices.other.balance" = "%1$d Zahlungsmodalitäten im Verhältnis zum Saldo";
+"InvoiceTitleNumberCanceled" = "Rechnung Nr. %1$.f wurde storniert";
+"InvoiceTitleNumberPaid" = "Rechnung Nr. %1$.f wurde vollständig bezahlt";
