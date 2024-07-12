@@ -39,3 +39,4 @@
 "PaidInvoices.other.balance" = "%1$d Bezahlte Rechnungen gegen den Saldo";
 "InvoiceTitleNumberCanceled" = "Rechnung Nr. %1$.f wurde storniert";
 "InvoiceTitleNumberPaid" = "Rechnung Nr. %1$.f wurde vollständig bezahlt";
+"SummaryReport" = "Ausgabenübersichtsbericht";
