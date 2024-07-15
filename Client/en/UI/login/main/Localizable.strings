@@ -39,3 +39,4 @@
 "PaidInvoices.other.balance" = "%d Paid Invoices against the balance";
 "InvoiceTitleNumberCanceled" = "Invoice #%.f has been canceled";
 "InvoiceTitleNumberPaid" = "Invoice #%.f has been paid in full";
+"SummaryReport" = "Spending Summary Report";
