@@ -40,3 +40,5 @@
 "InvoiceTitleNumberCanceled" = "A fatura%1$.f foi cancelada";
 "InvoiceTitleNumberPaid" = "A fatura #%1$.f foi paga integralmente";
 "SummaryReport" = "Relatório resumido de gastos";
+"SummaryReportDetails" = "Relatório resumido de gastos - Detalhes completos";
+"SummaryReportSummary" = "Spending Summary Report Brief";
