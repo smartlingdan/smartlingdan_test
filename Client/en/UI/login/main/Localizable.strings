@@ -41,3 +41,4 @@
 "InvoiceTitleNumberPaid" = "Invoice #%.f has been paid in full";
 "SummaryReport" = "Spending Summary Report";
 "SummaryReportDetails" = "Spending Summary Report - Full Details";
+"SummaryReportSummary" = "Spending Summary Report Brief";
