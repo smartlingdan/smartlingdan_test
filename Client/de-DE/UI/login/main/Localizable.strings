@@ -40,3 +40,5 @@
 "InvoiceTitleNumberCanceled" = "Rechnung #%1$.f wurde storniert";
 "InvoiceTitleNumberPaid" = "Rechnung #%1$.f wurde vollständig bezahlt";
 "SummaryReport" = "Zusammenfassender Bericht über die Ausgaben";
+"SummaryReportDetails" = "Zusammenfassender Ausgabenbericht - Alle Details";
+"SummaryReportSummary" = "Spending Summary Report Brief";
